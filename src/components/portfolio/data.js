@@ -5,7 +5,7 @@ import {
 } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { TbApi } from "react-icons/tb";
-import kishore from "../images/kishore.jpg";
+import kishore from "../images/Kishore.jpg";
 import madhav from "../images/madhav.png";
 import adarsh from "../images/adarsh.jpg";
 import daksh from "../images/daksh.jpg";
